@@ -1,6 +1,7 @@
 #include <iostream>
 #include "list1.h"
-using namespace std;
+using std::cout;
+using std::endl;
 
 int main(){
 	list1 liczby;
